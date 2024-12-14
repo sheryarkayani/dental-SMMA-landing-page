@@ -23,13 +23,13 @@ export default function Contact() {
           {/* Left Column */}
           <div className="space-y-8">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-              WHY PARTNER WITH SOCIAL PRIZM?
+              WHY PARTNER WITH Trendtial?
             </h2>
             <p className="text-gray-600">
-              Our team of skilled, dedicated professionals is focused on delivering exceptional, measurable results. With Social Prizm, you gain access to years of expertise, a proven track record of success, and a passionate commitment to supporting your growth through digital marketing.
+              Our team of skilled, dedicated professionals is focused on delivering exceptional, measurable results. With Trendtial, you gain access to years of expertise, a proven track record of success, and a passionate commitment to supporting your growth through digital marketing.
             </p>
             <div>
-              <p className="font-semibold mb-4">You get access to the Social Prizm expert marketing team comprised of:</p>
+              <p className="font-semibold mb-4">You get access to the Trendtial expert marketing team comprised of:</p>
               <ul className="list-disc pl-6 space-y-2">
                 {teamMembers.map((member, index) => (
                   <li key={index} className="text-gray-600">{member}</li>
@@ -99,7 +99,7 @@ export default function Contact() {
                   className="mt-1"
                 />
                 <label htmlFor="agreement" className="text-sm text-gray-600">
-                  By submitting this form, you agree to receive text messages from Social Prizm regarding updates, promotions, and other relevant information. Message and data rates may apply. You can opt out at any time by replying "STOP" to any message.
+                  By submitting this form, you agree to receive text messages from Trendtial regarding updates, promotions, and other relevant information. Message and data rates may apply. You can opt out at any time by replying "STOP" to any message.
                 </label>
               </div>
               <button

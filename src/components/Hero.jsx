@@ -6,7 +6,7 @@ export default function Hero() {
           We help Healthcare Clinics secure <span className="text-[#D03837]">10+ new patient</span> appointments within 14 days
         </h1>
         <p className="text-xl mb-12 text-gray-300">
-          Join Social Prizm's Mission to Connect Healthcare Providers with Patients in Need
+          Join Trendtial's Mission to Connect Healthcare Providers with Patients in Need
         </p>
         <div className="flex flex-col md:flex-row gap-6 justify-center">
           <button className="bg-[#D03837] hover:bg-[#b82e2d] text-white px-8 py-3 rounded-md text-lg font-semibold transition-colors">

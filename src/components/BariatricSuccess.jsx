@@ -15,7 +15,7 @@ export default function BariatricSuccess() {
         <div className="grid md:grid-cols-2 gap-12 mb-16">
           <div className="space-y-6">
             <p className="text-[#888888]">
-              Since partnering with Social Prizm in 2021, my practice has seen significant growth in leads and surgeries related to weight loss options. Their team has effectively reached thousands of potential patients while also educating them about the benefits of bariatric procedures. Through targeted Meta Ads campaigns, they've generated numerous leads, helping me connect with those seeking safe, effective solutions to obesity. I'm grateful for our partnership and look forward to continued success together!
+              Since partnering with Trendtial in 2021, my practice has seen significant growth in leads and surgeries related to weight loss options. Their team has effectively reached thousands of potential patients while also educating them about the benefits of bariatric procedures. Through targeted Meta Ads campaigns, they've generated numerous leads, helping me connect with those seeking safe, effective solutions to obesity. I'm grateful for our partnership and look forward to continued success together!
             </p>
             <div>
               <h2 className="text-xl font-bold text-black">Dr. Shehryar Ahmed Khan Niazi</h2>
@@ -35,7 +35,7 @@ export default function BariatricSuccess() {
         </div>
 
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">
-          Social Prizm Results for{" "}
+          Trendtial Results for{" "}
           <span className="text-[#D03837] underline">Weight Loss</span> Surgery Clinic
         </h2>
 
@@ -45,7 +45,7 @@ export default function BariatricSuccess() {
             <ul className="list-disc pl-6 space-y-4 text-gray-600">
               <li>Dr. Shahryar Niazi, a bariatric weight loss surgeon, struggled to effectively reach potential patients seeking weight loss solutions.</li>
               <li>He faced challenges in effectively reaching potential patients and educating them about weight loss options.</li>
-              <li>Before partnering with Social Prizm, the practice struggled with visibility, engagement, and frequent bans and deletions of social profiles due to strict Meta policies on weight loss and diabetic reversal surgeries.</li>
+              <li>Before partnering with Trendtial, the practice struggled with visibility, engagement, and frequent bans and deletions of social profiles due to strict Meta policies on weight loss and diabetic reversal surgeries.</li>
             </ul>
           </div>
           <div>

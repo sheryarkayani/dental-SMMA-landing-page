@@ -25,7 +25,7 @@ export default function OrthopedicPractice() {
               Clients Satisfied with Our Effective PPC Campaign Strategies
             </h2>
             <p className="text-[#888888]">
-              Social Prizm has been instrumental in growing my practice by effectively managing my social media and PPC campaigns. Their expertise in healthcare marketing has increased my patient outreach and online presence, allowing me to focus more on patient care. I highly recommend their services to any healthcare professional seeking digital growth.
+              Trendtial has been instrumental in growing my practice by effectively managing my social media and PPC campaigns. Their expertise in healthcare marketing has increased my patient outreach and online presence, allowing me to focus more on patient care. I highly recommend their services to any healthcare professional seeking digital growth.
             </p>
             <div>
               <h2 className="text-xl font-bold text-black">Prof. Dr. Yawar Anis</h2>

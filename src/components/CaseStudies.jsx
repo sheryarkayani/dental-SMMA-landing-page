@@ -14,7 +14,7 @@ export default function CaseStudies() {
           {/* Left Column - Problem & Results */}
           <div className="space-y-8">
             <h2 className="text-2xl font-bold">Alina Dental Clinic</h2>
-            <p className="text-gray-600">Client With Social Prizm Since 2019</p>
+            <p className="text-gray-600">Client With Trendtial Since 2019</p>
 
             <div>
               <h2 className="text-xl font-bold mb-4">Problem Faced</h2>
@@ -49,7 +49,7 @@ export default function CaseStudies() {
               />
             </div>
             <p className="text-lg italic">
-              Over the past few years, our partnership with <strong><em>Social Prizm has transformed our patient engagement and brand presence. With optimized digital strategies and a strong online presence,</em></strong> we've experienced steady growth in patient inquiries and bookings that have surpassed our initial expectations.
+              Over the past few years, our partnership with <strong><em>Trendtial has transformed our patient engagement and brand presence. With optimized digital strategies and a strong online presence,</em></strong> we've experienced steady growth in patient inquiries and bookings that have surpassed our initial expectations.
             </p>
             <div>
               <h2 className="text-xl font-bold">Dr Syed Ali Ahmed</h2>

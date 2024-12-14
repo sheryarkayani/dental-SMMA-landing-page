@@ -11,7 +11,7 @@ export default function LaformaClinic() {
               How We Helped Laforma Clinic Increase Patient Bookings by 120% in 4 Months
             </h3>
             <p className="text-[#888888]">
-              Working with Social Prizm has been transformative for Laforma Clinic. We've seen a substantial rise in patient inquiries and bookings, with a 120% increase in just four months. Thanks to their expert digital strategies, our clinic now ranks higher in search results, and more people are finding us online. Social Prizm has truly helped us grow and reach our goals.
+              Working with Trendtial has been transformative for Laforma Clinic. We've seen a substantial rise in patient inquiries and bookings, with a 120% increase in just four months. Thanks to their expert digital strategies, our clinic now ranks higher in search results, and more people are finding us online. Trendtial has truly helped us grow and reach our goals.
             </p>
             <div>
               <h2 className="text-xl font-bold text-black">Dr. Farrukh Aslam</h2>
@@ -37,10 +37,10 @@ export default function LaformaClinic() {
             />
             <div>
               <p className="text-xl font-bold mb-4">
-                How Social Prizm Helped <span className="text-[#D03837] font-bold">Laforma Clinic?</span>
+                How Trendtial Helped <span className="text-[#D03837] font-bold">Laforma Clinic?</span>
               </p>
               <p className="text-[#888888]">
-                Social Prizm collaborated with Laforma Clinic to increase patient engagement and bookings. By running targeted Meta ad campaigns and optimizing the clinic's digital presence, patient bookings rose by 120% within four months. Social Prizm also conducted a professional video and photo shoot, strengthening the clinic's website and social media to connect with more patients effectively.
+                Trendtial collaborated with Laforma Clinic to increase patient engagement and bookings. By running targeted Meta ad campaigns and optimizing the clinic's digital presence, patient bookings rose by 120% within four months. Trendtial also conducted a professional video and photo shoot, strengthening the clinic's website and social media to connect with more patients effectively.
               </p>
             </div>
           </div>

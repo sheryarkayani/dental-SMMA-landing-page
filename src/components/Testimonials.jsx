@@ -4,7 +4,7 @@ export default function Testimonials() {
       image: "/images/image36.jpg",
       name: "Dr. Syed Ali Ahmed",
       rating: "/images/image39.png",
-      review: "Over the past few years, our partnership with Social Prizm has transformed our patient engagement and brand presence. With optimized digital strategies and a strong online presence...",
+      review: "Over the past few years, our partnership with Trendtial has transformed our patient engagement and brand presence. With optimized digital strategies and a strong online presence...",
       readMoreLink: "https://maps.app.goo.gl/1D38kd7SgfYXEmUW6/"
     },
     {
@@ -18,7 +18,7 @@ export default function Testimonials() {
       image: "/images/image35.jpg",
       name: "Dr. Yawar Anis",
       rating: "/images/image38.png",
-      review: "I'm so happy we chose Social Prizm! They helped us reach a wider audience, and we're getting more calls than ever. Their team is professional, and they really know their stuff! I'd recommend them...",
+      review: "I'm so happy we chose Trendtial! They helped us reach a wider audience, and we're getting more calls than ever. Their team is professional, and they really know their stuff! I'd recommend them...",
       readMoreLink: "https://maps.app.goo.gl/1D38kd7SgfYXEmUW6/"
     }
   ];
