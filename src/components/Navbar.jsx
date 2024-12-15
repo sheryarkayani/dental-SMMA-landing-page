@@ -3,6 +3,7 @@ import Logo from "/public/images/logo.svg";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -21,6 +22,7 @@ export default function Navbar() {
         top: elementPosition,
         behavior: "smooth",
       });
+      setIsMenuOpen(false); // Close the menu when a section is clicked
     }
   };
 
@@ -89,12 +91,15 @@ export default function Navbar() {
             href="tel:+18163253036"
             className="text-gray-50 hover:underline transition-colors"
           >
-            (816) 325-3036
+            +12135928534
           </a>
         </div>
 
         {/* Mobile Menu Button */}
-        <button className="md:hidden text-gray-50 hover:underline">
+        <button
+          className="md:hidden text-gray-50 hover:underline"
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
+        >
           <svg
             className="w-6 h-6"
             fill="none"
@@ -110,6 +115,36 @@ export default function Navbar() {
           </svg>
         </button>
       </div>
+
+      {/* Mobile Menu */}
+      {isMenuOpen && (
+        <div className="md:hidden mt-4 space-y-4">
+          <button
+            onClick={() => scrollToSection("services")}
+            className="block w-full text-left text-gray-50 hover:underline transition-colors"
+          >
+            Services
+          </button>
+          <button
+            onClick={() => scrollToSection("case-studies")}
+            className="block w-full text-left text-gray-50 hover:underline transition-colors"
+          >
+            Case Studies
+          </button>
+          <button
+            onClick={() => scrollToSection("getquote")}
+            className="block w-full text-left text-gray-50 hover:underline transition-colors"
+          >
+            Contact Us
+          </button>
+          <a
+            href="tel:+18163253036"
+            className="block w-full text-left text-gray-50 hover:underline transition-colors"
+          >
+            +12135928534
+          </a>
+        </div>
+      )}
     </nav>
   );
 }

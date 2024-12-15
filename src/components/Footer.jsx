@@ -18,7 +18,7 @@ export default function Footer() {
             <div className="flex items-center space-x-3">
               <FaMapMarkerAlt className="text-xl text-gray-400" />
               <span className="text-gray-300">
-                117 S Lexington St, Suite 100 Harrisonville, MO 64701
+              First Floor, Trendtial Marketing, Bahria Intellectual Village Bahria Town, Rawalpindi, Islamabad Capital Territory 46600, Pakistan
               </span>
             </div>
 
@@ -50,14 +50,14 @@ export default function Footer() {
             {/* Social Media Icons */}
             <div className="flex space-x-6">
               <a
-                href="mailto:qamar@bysocialprizm.com"
+                href="mailto:trendtial@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >
                 <FaEnvelope className="text-2xl" />
               </a>
               <a
-                href="https://www.instagram.com/socialprizm/"
+                href="https://www.instagram.com/trendtialmarketing/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -66,7 +66,7 @@ export default function Footer() {
                 <FaInstagram className="text-2xl" />
               </a>
               <a
-                href="https://www.facebook.com/SocialPrizm/"
+                href="https://www.facebook.com/Trendtial/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -75,7 +75,7 @@ export default function Footer() {
                 <FaFacebookF className="text-2xl" />
               </a>
               <a
-                href="https://www.linkedin.com/company/socialprizm"
+                href="https://www.linkedin.com/company/trendtial/posts/?feedView=all"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"

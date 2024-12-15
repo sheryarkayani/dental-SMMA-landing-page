@@ -12,8 +12,8 @@ export default function BookAppointment() {
         <p className="text-xl font-semibold mb-8 text-black">
           Book an Appointment for a FREE Consultation!
         </p>
-        <a 
-          href="#appointment" 
+        <a
+          href="tel:+18163253036"
           className="inline-block bg-[#D03837] hover:bg-[#b82e2d] text-white font-bold py-4 px-8 rounded-lg text-lg transition-colors duration-300"
         >
           BOOK AN APPOINTMENT
@@ -21,4 +21,4 @@ export default function BookAppointment() {
       </div>
     </section>
   );
-} 
+}
