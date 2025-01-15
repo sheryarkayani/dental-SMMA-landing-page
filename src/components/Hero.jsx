@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="min-h-[40rem] flex items-center justify-center bg-black bg-opacity-75 bg-blend-overlay bg-[url('/images/hero-bg.jpg')] bg-cover bg-center text-white"
+      className="min-h-[40rem] pt-24 flex items-center justify-center bg-black bg-opacity-75 bg-blend-overlay bg-[url('/images/hero-bg.jpg')] bg-cover bg-center text-white"
     >
       <div className="max-w-4xl mx-auto text-center px-6">
         <h1 className="text-4xl md:text-6xl font-bold mb-8">
