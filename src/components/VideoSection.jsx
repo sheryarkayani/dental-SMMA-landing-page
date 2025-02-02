@@ -1,12 +1,12 @@
 export default function VideoSection() {
   const videos = [
     {
-      id: "M37sj-jthHo",
-      title: "Healthcare Marketing Success Story 1"
+      id: "1052712279",
+      title: "Dr. Javeria Qureshi - How Digital Marketing Transformed My Dental Practice!"
     },
     {
-      id: "-p5VxihyM90",
-      title: "Healthcare Marketing Success Story 2"
+      id: "1052713124",
+      title: "Dr. Mansur Ahmed - Elevating Medical Practice with Digital Marketing!"
     }
   ];
 
@@ -18,14 +18,17 @@ export default function VideoSection() {
         </h2>
         <div className="grid md:grid-cols-2 gap-8">
           {videos.map((video) => (
-            <div key={video.id} className="aspect-video shadow-lg">
-              <iframe
-                className="w-full h-full rounded-lg"
-                src={`https://www.youtube.com/embed/${video.id}`}
-                title={video.title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div key={video.id} className="shadow-lg rounded-lg overflow-hidden">
+              <div style={{ padding: '56.25% 0 0 0', position: 'relative' }}>
+                <iframe
+                  src={`https://player.vimeo.com/video/${video.id}?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479`}
+                  style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+                  title={video.title}
+                  frameBorder="0"
+                  allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+                  allowFullScreen
+                ></iframe>
+              </div>
             </div>
           ))}
         </div>
